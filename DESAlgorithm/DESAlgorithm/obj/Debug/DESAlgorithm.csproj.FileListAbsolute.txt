@@ -1,0 +1,15 @@
+C:\Users\Mateusz\source\repos\DESAlgorithm\DESAlgorithm\bin\Debug\DESAlgorithm.exe.config
+C:\Users\Mateusz\source\repos\DESAlgorithm\DESAlgorithm\bin\Debug\DESAlgorithm.exe
+C:\Users\Mateusz\source\repos\DESAlgorithm\DESAlgorithm\bin\Debug\DESAlgorithm.pdb
+C:\Users\Mateusz\source\repos\DESAlgorithm\DESAlgorithm\obj\Debug\DESAlgorithm.csprojAssemblyReference.cache
+C:\Users\Mateusz\source\repos\DESAlgorithm\DESAlgorithm\obj\Debug\MainWindow.g.cs
+C:\Users\Mateusz\source\repos\DESAlgorithm\DESAlgorithm\obj\Debug\App.g.cs
+C:\Users\Mateusz\source\repos\DESAlgorithm\DESAlgorithm\obj\Debug\DESAlgorithm_MarkupCompile.cache
+C:\Users\Mateusz\source\repos\DESAlgorithm\DESAlgorithm\obj\Debug\DESAlgorithm_MarkupCompile.lref
+C:\Users\Mateusz\source\repos\DESAlgorithm\DESAlgorithm\obj\Debug\MainWindow.baml
+C:\Users\Mateusz\source\repos\DESAlgorithm\DESAlgorithm\obj\Debug\DESAlgorithm.g.resources
+C:\Users\Mateusz\source\repos\DESAlgorithm\DESAlgorithm\obj\Debug\DESAlgorithm.Properties.Resources.resources
+C:\Users\Mateusz\source\repos\DESAlgorithm\DESAlgorithm\obj\Debug\DESAlgorithm.csproj.GenerateResource.cache
+C:\Users\Mateusz\source\repos\DESAlgorithm\DESAlgorithm\obj\Debug\DESAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\source\repos\DESAlgorithm\DESAlgorithm\obj\Debug\DESAlgorithm.exe
+C:\Users\Mateusz\source\repos\DESAlgorithm\DESAlgorithm\obj\Debug\DESAlgorithm.pdb
